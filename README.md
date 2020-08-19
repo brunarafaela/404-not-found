@@ -17,7 +17,7 @@
  
  ## 🎨 Layout
 <a align="center" href="https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE">
-  <img alt="Made by brunarafaela" src="https://img44.pixhost.to/images/550/158992193_captura-de-tela-2020-08-19-a-s-06-02-23.png">
+ <center> <img alt="Made by brunarafaela" src="https://img44.pixhost.to/images/550/158992193_captura-de-tela-2020-08-19-a-s-06-02-23.png"> </center>
 </a>
 
- Made with ❤️ by <a href="https://www.linkedin.com/in/brunarafaela/">Bruna Rafaela</a> 
+ <center>Made with ❤️ by <a href="https://www.linkedin.com/in/brunarafaela/">Bruna Rafaela</a></center>
