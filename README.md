@@ -16,8 +16,8 @@
  
  
  ## 🎨 Layout
- <center><a href="https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE">
+<a align="center" href="https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE">
   <img alt="Made by brunarafaela" src="https://img44.pixhost.to/images/550/158992193_captura-de-tela-2020-08-19-a-s-06-02-23.png">
-</a></center>
+</a>
 
- Made with ❤️ by Bruna Rafaela 👋🏽 [Contact](https://www.linkedin.com/in/brunarafaela/)
+ Made with ❤️ by <a href="https://www.linkedin.com/in/brunarafaela/">Bruna Rafaela</a> 
