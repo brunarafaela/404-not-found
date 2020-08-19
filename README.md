@@ -22,4 +22,4 @@
 </a>
 </p>
 
- <p align="center">Made with ❤️ by <a href="https://www.linkedin.com/in/brunarafaela/">Bruna Rafaela</a></p>
+ <p align="center">Made with ❤️  by <a href="https://www.linkedin.com/in/brunarafaela/">Bruna Rafaela</a></p>
